@@ -1,0 +1,1 @@
+https://console.cloud.google.com/bigquery?sq=529201677331:76a102e623644f97af0036b7911a41df&project=covid-vaccinations-and-deaths
